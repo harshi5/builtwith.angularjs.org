@@ -1611,22 +1611,20 @@
       ]
     },
     {
-  "name": "Thoughtcast Snippet Manager",  // will be displayed under the screenshot
-  "thumb": "thoughtcast-snippet-manager/thumb.png", // path to the image (omit the projects/ prefix)
+  "name": "Thoughtcast Snippet Manager",  
+  "thumb": "thoughtcast-snippet-manager/thumb.png", 
   "desc": "Thoughtcast Snippet Manager is a web app for easily managing your code snippets and get instant access to them across the web anywhere,anytime. Register for FREE", // One or two sentences
-  "url": "http://icanbeacoder.com/thoughtcast", // url to your app
-  "info": "http://icanbeacoder.com/thoughtcast", // url to app announcement or background
+  "url": "http://icanbeacoder.com/thoughtcast", 
+  "info": "http://icanbeacoder.com/thoughtcast", 
   
-  "submitter": "harshi5", // your github username
-  "submissionDate": "2013-12-20", // current date in ISO format
+  "submitter": "harshi5", 
+  "submissionDate": "2013-12-20", 
   "tags": [
-    "code", "snippet", "manager" // choose your app seriousness level (for plunks or fiddles use "Toy")
-    "free", "CRUD", "Productivity","managing","easily" // choose your app type
-    "coders", "programmer", "yii","ajax"// features and technologies
-    "No jQuery", // do you use jQuery?
-    "Open Source" // tag open source projects
-     // use if open source and tests are included
-    
+    "code", "snippet", "manager" 
+    "free", "CRUD", "Productivity","managing","easily" 
+    "coders", "programmer", "yii","ajax","cloud",
+    "No jQuery", 
+    "Open Source"
   ]
 }
 
